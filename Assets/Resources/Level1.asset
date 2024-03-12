@@ -1,0 +1,451 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce4082b9314ced44a3144a04dcb82d6, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  data:
+    width: 30
+    height: 20
+    listAttacker:
+    - id: 1
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 11
+        y: 11
+    - id: 2
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 11
+        y: 10
+    - id: 3
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 11
+        y: 9
+    - id: 4
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 11
+        y: 8
+    - id: 5
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 10
+        y: 11
+    - id: 6
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 10
+        y: 10
+    - id: 7
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 10
+        y: 9
+    - id: 8
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 10
+        y: 8
+    - id: 9
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 18
+        y: 11
+    - id: 10
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 18
+        y: 10
+    - id: 11
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 18
+        y: 9
+    - id: 12
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 18
+        y: 8
+    - id: 13
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 19
+        y: 11
+    - id: 14
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 19
+        y: 10
+    - id: 15
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 19
+        y: 9
+    - id: 16
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 19
+        y: 8
+    - id: 17
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 16
+        y: 6
+    - id: 18
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 15
+        y: 6
+    - id: 19
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 14
+        y: 6
+    - id: 20
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 13
+        y: 6
+    - id: 21
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 16
+        y: 5
+    - id: 22
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 15
+        y: 5
+    - id: 23
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 14
+        y: 5
+    - id: 24
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 13
+        y: 5
+    - id: 25
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 16
+        y: 13
+    - id: 26
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 15
+        y: 13
+    - id: 27
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 14
+        y: 13
+    - id: 28
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 13
+        y: 13
+    - id: 29
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 16
+        y: 14
+    - id: 30
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 15
+        y: 14
+    - id: 31
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 14
+        y: 14
+    - id: 32
+      axieId: 4191804
+      hp: 16
+      canMode: 1
+      direction: 0
+      type: 1
+      position:
+        x: 13
+        y: 14
+    listDefender:
+    - id: 1
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 13
+        y: 10
+    - id: 2
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 14
+        y: 10
+    - id: 3
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 15
+        y: 10
+    - id: 4
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 16
+        y: 10
+    - id: 5
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 13
+        y: 9
+    - id: 6
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 14
+        y: 9
+    - id: 7
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 15
+        y: 9
+    - id: 8
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 16
+        y: 9
+    - id: 9
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 13
+        y: 11
+    - id: 10
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 14
+        y: 11
+    - id: 11
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 15
+        y: 11
+    - id: 12
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 16
+        y: 11
+    - id: 13
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 13
+        y: 8
+    - id: 14
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 14
+        y: 8
+    - id: 15
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 15
+        y: 8
+    - id: 16
+      axieId: 2724598
+      hp: 32
+      canMode: 0
+      direction: 0
+      type: 2
+      position:
+        x: 16
+        y: 8
